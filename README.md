@@ -68,16 +68,31 @@ ________________________________________
 8.	Help View
 ________________________________________
 ### Report View:
+
 #### Home Page:
+![WhatsApp Image 2025-01-06 at 16 35 25](https://github.com/user-attachments/assets/835dc5da-d487-4054-85ca-24b5527a228d)
+
 #### Info Page:
 ![WhatsApp Image 2025-01-06 at 16 40 38](https://github.com/user-attachments/assets/79730c57-32c2-4b3a-b618-18a76a15185b)
 
 #### Finance View:
+![WhatsApp Image 2025-01-06 at 16 36 56](https://github.com/user-attachments/assets/5a4c2a6e-82f8-4a27-9d01-19d9909d7a71)
+
 #### Sales View:
+![WhatsApp Image 2025-01-06 at 16 37 36](https://github.com/user-attachments/assets/f67cde89-10ed-4f81-95bc-ef70ed0b9f07)
+
 #### Marketing View:
+![WhatsApp Image 2025-01-06 at 16 38 17](https://github.com/user-attachments/assets/b3d7dd1e-5d16-4349-a5a5-6538c04e3cd4)
+
 #### Supply Chain View:
+![WhatsApp Image 2025-01-06 at 16 39 11 (1)](https://github.com/user-attachments/assets/018bdc03-cead-42ab-aa3e-4fef35324150)
+
 #### Executive View:
+![WhatsApp Image 2025-01-06 at 16 39 50](https://github.com/user-attachments/assets/0d1d904d-7c45-4384-8857-6088cb4f5604)
+
 #### Help Page:
+![WhatsApp Image 2025-01-06 at 16 40 17](https://github.com/user-attachments/assets/63f045bc-7545-4910-a135-a408710ed3f2)
+
  ________________________________________
  [🔝 Go to Top](#Power-BI)
           Power-BI<a name="Power-BI"></a> 
