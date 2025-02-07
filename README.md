@@ -2,6 +2,7 @@
 ## Business Insights 360 :🌍📊
  Create a Power BI dashboard for each department—**Sales, Finance, Marketing, Supply Chain,** and **Executive**—to analyze sales trends and support data-driven decision-making. The dashboards should provide key insights, metrics, and visualizations tailored to each department's needs.
 - **Live Dashboard Link 📊:[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzkzMTYyYjgtM2I0Ni00YTg2LThmZjktYzU2YzlmNTU2MzgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+- <a name="live-dashboard"></a> 
 ________________________________________
 ### Action Taken:✅📌
 - Gathered data from two sources: **MySQL** and **Excel**.
@@ -68,6 +69,7 @@ ________________________________________
 8.	Help View ❓🆘
 ________________________________________
 ### Report View:🖥️🔎
+<a name="report-view"></a> 
 
 #### Home Page:
 ![WhatsApp Image 2025-01-06 at 16 35 25](https://github.com/user-attachments/assets/835dc5da-d487-4054-85ca-24b5527a228d)
@@ -94,11 +96,9 @@ ________________________________________
 ![WhatsApp Image 2025-01-06 at 16 40 17](https://github.com/user-attachments/assets/63f045bc-7545-4910-a135-a408710ed3f2)
 
  ________________________________________
- [🔝 Go to Top](#Power-BI)
-          Power-BI<a name="Power-BI"></a> 
-________________________________________
- [🖥️🔎 Go to Report View:]()
-          <a name=""></a> 
-________________________________________
- [📊 Go to Live Dashboard:]()
-          <a name=""></a> 
+[🔝 Go to Top]()  
+[🖥️🔎 Go to Report View](#report-view)  
+[📊 Go to Live Dashboard](#live-dashboard)  
+
+
+
