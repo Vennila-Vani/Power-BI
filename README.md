@@ -1,14 +1,14 @@
 # Power-BI
-Business Insights 360
-Develop a comprehensive Power BI dashboard for each department—Sales, Finance, Marketing, Supply Chain, and Executive—to analyze sales trends and support data-driven decision-making.
-*Live Dashboard Link:[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzkzMTYyYjgtM2I0Ni00YTg2LThmZjktYzU2YzlmNTU2MzgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## Business Insights 360
+ Create a Power BI dashboard for each department—**Sales, Finance, Marketing, Supply Chain,** and **Executive**—to analyze sales trends and support data-driven decision-making. The dashboards should provide key insights, metrics, and visualizations tailored to each department's needs.
+- **Live Dashboard Link:[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzkzMTYyYjgtM2I0Ni00YTg2LThmZjktYzU2YzlmNTU2MzgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 ________________________________________
-Action Taken:
-•	Gathered data from two sources: MySQL and Excel.
-•	Constructed a snowflake schema to connect various tables.
-•	Created calculated columns and measures to generate the required Key Performance Indicators (KPIs) for each view.
+### Action Taken:
+- Gathered data from two sources: **MySQL** and **Excel**.
+- Constructed a **snowflake schema** to connect various tables.
+- Created calculated columns and measures to generate the required **Key Performance Indicators (KPIs)** for each view.
 ________________________________________
-Approach:
+### Approach:
 1.	Data Collection & Exploration
 2.	Data Transformation & Preparation
 3.	Data Modeling & Relationship Management
