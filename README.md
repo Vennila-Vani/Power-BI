@@ -27,18 +27,18 @@ ________________________________________
 * Project Charter File
 ________________________________________
 ### Skills Acquired:
-•	Calculated Columns Creation
-•	Measures Development using DAX Language
-•	Data Modeling Techniques
-•	Dynamic Visualizations using Bookmarks
-•	Enhanced Navigation with Buttons
-•	Date Table Creation using M Language
-•	Dynamic Titles based on Filters
-•	Utilization of KPI Indicators
-•	Conditional Formatting for Visual Enhancement
-•	Data Validation Strategies
-•	Power BI Services Deployment
-•	Report Publication to Power BI Services
+*	Calculated Columns Creation
+*	Measures Development using DAX Language
+*	Data Modeling Techniques
+*	Dynamic Visualizations using Bookmarks
+*	Enhanced Navigation with Buttons
+*	Date Table Creation using M Language
+*	Dynamic Titles based on Filters
+*	Utilization of KPI Indicators
+*	Conditional Formatting for Visual Enhancement
+*	Data Validation Strategies
+*	Power BI Services Deployment
+*	Report Publication to Power BI Services
 ________________________________________
 Important KPIs:
 •	Net Sales
