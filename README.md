@@ -77,10 +77,11 @@ ________________________________________
 #### Executive View:
 #### Help Page:
  ________________________________________
-[🔝 Go to Top](#Power-BI)
+ [🔝 Go to Top](#Power-BI)
           Power-BI<a name="Power-BI"></a> 
 ________________________________________
-[🔝 Go to Report View:]()
+ [📄 Go to Report View:]()
           <a name=""></a> 
-[🔝 Go to Live Dashboard:]()
+________________________________________
+ [📊 Go to Live Dashboard:]()
           <a name=""></a> 
