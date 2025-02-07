@@ -1,4 +1,4 @@
-# Power-BI
+# Power-BI ⚡
 ## Business Insights 360 :🌍📊
  Create a Power BI dashboard for each department—**Sales, Finance, Marketing, Supply Chain,** and **Executive**—to analyze sales trends and support data-driven decision-making. The dashboards should provide key insights, metrics, and visualizations tailored to each department's needs.
 - **Live Dashboard Link 📊:[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzkzMTYyYjgtM2I0Ni00YTg2LThmZjktYzU2YzlmNTU2MzgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
