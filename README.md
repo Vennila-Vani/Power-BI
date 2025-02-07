@@ -18,15 +18,15 @@ ________________________________________
 7.	Performance Optimization
 8.	Publishing Reports
 ________________________________________
-Tech Stacks:
-•	SQL
-•	Power BI Desktop
-•	Excel
-•	DAX Language
-•	DAX Studio (for optimizing the report)
-•	Project Charter File
+### Tech Stacks:
+* SQL
+*	Power BI Desktop
+*	Excel
+*	DAX Language
+* DAX Studio (for optimizing the report)
+* Project Charter File
 ________________________________________
-Skills Acquired:
+### Skills Acquired:
 •	Calculated Columns Creation
 •	Measures Development using DAX Language
 •	Data Modeling Techniques
